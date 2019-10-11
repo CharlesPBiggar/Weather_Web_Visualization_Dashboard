@@ -1,7 +1,7 @@
 /* CSS style sheet*/
 
 body {
-    background-color: grey;
+    background-color:grey;
 }
 
 img{
@@ -84,4 +84,10 @@ td {
     text-align: center;
     border-color: black;
     border-style: solid;
+}
+/*
+.navbar-toggler-icon {
+    background-color: black;
+    color: white;
+    border-color: purple;
 }
