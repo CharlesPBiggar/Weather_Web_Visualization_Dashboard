@@ -1,6 +1,87 @@
 /* CSS style sheet*/
 
+body {
+    background-color: grey;
+}
+
 img{
     width:100% !important;
     height:100% !important;
+}
+
+.navbar {
+    background-color: darkblue;
+}
+
+.navbar-brand {
+    color:whitesmoke;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nav-link {
+    color: whitesmoke;
+}
+
+.dropdown-menu {
+    background-color: rgb(#1608da);
+}
+
+.drowndown-item {
+    color: whitesmoke;
+}
+
+.dropdown-divider {
+    border-color: black
+}
+
+.box {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+}
+
+.col-6 {
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+.title {
+    color:whitesmoke;
+}
+
+p {
+    color: whitesmoke;
+}
+
+.panel {
+    border-style: solid;
+    color: black;
+}
+.active, .panel:hover{
+    border-color:darkblue;
+    border-style: dashed; 
+}
+
+th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px; 
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+}
+
+td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px; 
+    text-align: center;
+    border-color: black;
+    border-style: solid;
 }
