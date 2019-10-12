@@ -12,6 +12,12 @@ body {
     padding-right: 60px;
 }
 
+.comparison {
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 10px;
+}
+
 .visualization {
     border-style: solid;
     border-color: black;
