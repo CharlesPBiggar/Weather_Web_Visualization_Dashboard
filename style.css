@@ -97,6 +97,11 @@ p {
     border-style: dashed; 
 }
 
+.dataframe {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
 th {
     padding-top: 10px;
     padding-bottom: 10px;
