@@ -1,7 +1,20 @@
 /* CSS style sheet*/
 
 body {
-    background-color:grey;
+    background-color:lightgray;
+}
+
+.container {
+    background-color: grey;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.visualization {
+    border-style: solid;
+    border-color: black;
 }
 
 img{
