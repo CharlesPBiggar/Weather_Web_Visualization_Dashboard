@@ -92,6 +92,7 @@ p {
     border-style: solid;
     color: black;
 }
+/*Give a new border when hoving over clickable visualizations*/
 .active, .panel:hover{
     border-color:darkblue;
     border-style: dashed; 
